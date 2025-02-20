@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/B3.iml" filepath="$PROJECT_DIR$/B3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B3_1/B3_1.iml" filepath="$PROJECT_DIR$/B3_1/B3_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B3_2/B3_2.iml" filepath="$PROJECT_DIR$/B3_2/B3_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B3_3/B3_3.iml" filepath="$PROJECT_DIR$/B3_3/B3_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B3_4/B3_4.iml" filepath="$PROJECT_DIR$/B3_4/B3_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B3_5/B3_5.iml" filepath="$PROJECT_DIR$/B3_5/B3_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B3_6/B3_6.iml" filepath="$PROJECT_DIR$/B3_6/B3_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B3_7/B3_7.iml" filepath="$PROJECT_DIR$/B3_7/B3_7.iml" />
+    </modules>
+  </component>
+</project>
