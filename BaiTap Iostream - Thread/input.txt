@@ -1,0 +1,3 @@
+Dòng 1: Xin chào!
+Dòng 2: Đây là file test.
+Dòng 3: Java rất thú vị!

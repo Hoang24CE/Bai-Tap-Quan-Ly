@@ -1,0 +1,11 @@
+Thread 1 ghi dữ liệu
+Thread 2 ghi dữ liệu
+Thread 1 ghi dữ liệu
+Thread 2 ghi dữ liệu
+Thread 1 ghi dữ liệu
+Thread 2 ghi dữ liệu
+Thread 1: ghi dữ liệu 1
+Thread 2: ghi dữ liệu 2
+Thread 1: ghi dữ liệu 1
+Thread 2: ghi dữ liệu 2
+Trần Công Hoàng 
