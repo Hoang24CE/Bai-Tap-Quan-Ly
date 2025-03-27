@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox spacing="10" alignment="CENTER" xmlns="http://javafx.com/javafx/17"
+      xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.LibraryController">
+    <Label text="Quản lý thư viện sách" style="-fx-font-size: 18px; -fx-font-weight: bold;" />
+
+    <TableView fx:id="bookTable">
+        <columns>
+            <TableColumn text="Tên sách" fx:id="titleColumn"/>
+            <TableColumn text="Tác giả" fx:id="authorColumn"/>
+            <TableColumn text="Năm xuất bản" fx:id="yearColumn"/>
+        </columns>
+    </TableView>
+
+    <HBox spacing="10">
+        <Button text="Thêm" fx:id="addButton"/>
+        <Button text="Sửa" fx:id="editButton"/>
+        <Button text="Xóa" fx:id="deleteButton"/>
+    </HBox>
+</VBox>

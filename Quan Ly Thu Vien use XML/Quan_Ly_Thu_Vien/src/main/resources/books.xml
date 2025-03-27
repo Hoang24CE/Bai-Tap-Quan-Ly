@@ -1,0 +1,12 @@
+<books>
+    <book>
+        <title>Tên sách 1</title>
+        <author>Tác giả 1</author>
+        <year>2023</year>
+        <publisher>Nhà xuất bản A</publisher>
+        <pages>300</pages>
+        <genre>Văn học</genre>
+        <price>150000</price>
+        <isbn>978-3-16-148410-0</isbn>
+    </book>
+</books>
