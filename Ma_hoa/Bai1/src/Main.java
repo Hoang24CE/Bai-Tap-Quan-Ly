@@ -1,10 +1,13 @@
 import javafx.application.Application;
+import javafx.stage.Stage;
+
+import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-import static jdk.internal.org.jline.terminal.Terminal.MouseTracking.Button;
+import javafx.scene.control.Button;
 
 public class Main extends Application {
     @Override
